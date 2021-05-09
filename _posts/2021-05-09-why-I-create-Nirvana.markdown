@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Why I creat Nirvana"
 date:   2021-05-09 22:22:17 +0800
 categories: jekyll update
 ---
