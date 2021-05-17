@@ -5,7 +5,7 @@ date:   2021-05-09 22:22:17 +0800
 categories: Others
 ---
 ## Why create Nirvana this project
-I love develop OS and I be a OS developer. But from now on I only develop some BSP in Linux and use some simple feature of kernel.  
+I love develop OS and I want be a OS developer. But from now on I only developed some BSP in Linux and used some simple feature of kernel.  
 This year I want change my job to bigger company and be a OS developer. But from the interview I realize that I'm a rookie in OS, so many knowledge about OS I just read from book but never used it. I can't answer many difficulty questions in OS.  
 This make me embarrassed that I already worked for 8 years but still don't know the things I have been used everyday.  
 I realize that not only OS, so many tools that I used everyday I never digger those implementation. And even sometimes I read those code, I must forget it after 2 or 3 months.  
