@@ -66,7 +66,7 @@ GEM
     unicode-display_width (1.7.0)
 
 PLATFORMS
-  aarch64-linux
+  x86_64-darwin-17
 
 DEPENDENCIES
   jekyll (~> 4.2.0)

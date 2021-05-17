@@ -1,29 +1,20 @@
 ---
 layout: post
-title:  "Why I creat Nirvana"
+title:  "Why I create Nirvana"
 date:   2021-05-09 22:22:17 +0800
 categories: Others
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## Why create Nirvana this project
+I love develop OS and I be a OS developer. But from now on I only develop some BSP in Linux and use some simple feature of kernel.  
+This year I want change my job to bigger company and be a OS developer. But from the interview I realize that I'm a rookie in OS, so many knowledge about OS I just read from book but never used it. I can't answer many difficulty questions in OS.  
+This make me embarrassed that I already worked for 8 years but still don't know the things I have been used everyday.  
+I realize that not only OS, so many tools that I used everyday I never digger those implementation. And even sometimes I read those code, I must forget it after 2 or 3 months.  
+So I create this project, and my slogan is "build everything from scratch!". This attitude may not good in working, but I think it every useful in studying. After I build everything I interested and build it like other's did, I think I can got the those essentials.
+## Why use github.io
+Because I think the only reader it's me and I want those blogs manage with code.
+## Why use English
+As I just said, the only reader it's me, and those blogs just record this project growing step. So why not studying coding skills and  English together. I know my English is not good as native, and it may have some syntax error or confusion. But anyway the only reader is me.  
+If you who is reading is not me and want me write some blog in Chinese, please let email me. I'll so glad that someone read my blog.  
+## Roadmap
+Please refer to the [projects](https://github.com/orgs/Nirvana-ckt/projects) in github.
 
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
